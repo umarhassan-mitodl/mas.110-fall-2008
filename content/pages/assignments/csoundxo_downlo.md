@@ -27,7 +27,7 @@ Software Download
 
 CsoundXO software package, by Barry Vercoe: ({{% resource_link 49d393b9-28aa-936e-b8f3-c00a692bb9bc "TAR - 37.2 MB" %}})
 
-I wouldn't suggest you to download the file through Browse activity since the file management in XO is kind of tricky, but if you're interested, see {{% resource_link "80cfbc1e-df44-4d92-8549-1a9839e52bb2" "http://wiki.laptop.org/go/Journal\_Activity" %}}. Please download csoundxo.tar and Musicpainter.tar from your own computer, and copy to a flash disc.
+I wouldn't suggest you to download the file through Browse activity since the file management in XO is kind of tricky, but if you're interested, see [http://wiki.laptop.org/go/Journal\_Activity](http://wiki.laptop.org/go/Journal_Activity). Please download csoundxo.tar and Musicpainter.tar from your own computer, and copy to a flash disc.
 
 Installation
 ------------

@@ -5,6 +5,8 @@ description: A manual for developers of activities for the One Laptop Per Child 
 file: /courses/mas-110-fundamentals-of-computational-media-design-fall-2008/b956b81554867c1d4a41adecf4fe93e4_csoundxo_python.pdf
 file_size: 258847
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

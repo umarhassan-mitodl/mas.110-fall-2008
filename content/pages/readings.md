@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the list of required books for the course along
   with the schedule of reading assignments by lecture.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -94,7 +96,7 @@ Carter, chapter 1 (please bring Carter to class today)
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Video screening: {{% resource_link "5ab60cd8-b276-40a0-bff9-aa3fc562df2d" "_Helvetica_" %}} by Gary Hustwit
+Video screening: [_Helvetica_](http://www.imdb.com/title/tt0847817/) by Gary Hustwit
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -179,9 +181,9 @@ Color: physics, psychophysics, and aesthetics
 
 Britt, chapter 1
 
-Jacobson, N., and W. Bender. "{{% resource_link "80a28d4c-0a93-46af-bf63-38022180ac76" "Color as a Determined Communication" %}}."
+Jacobson, N., and W. Bender. "[Color as a Determined Communication](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387199)."
 
-Explore {{% resource_link "d1a9d3f2-f72e-4832-a6b5-ad5620707d77" "Apple Computer's color pages" %}}
+Explore [Apple Computer's color pages](http://web.archive.org/web/20101220202550/http://www.apple.com/pro/color/)
 
 
 {{< tdclose >}}
@@ -210,7 +212,7 @@ Guest lecturer: Walter Bender
 
 Color: physics, psychophysics, and aesthetics (cont.)
 
-Discuss {{% resource_link "218ea0fe-6665-4481-8aa5-6d8579836ba2" "OLPC XO" %}} (One Laptop Per Child) hardware and the {{% resource_link "d44f1925-5ee5-4fa9-ad2e-fdeac8a013ff" "Sugar environment" %}}
+Discuss [OLPC XO](http://www.laptop.org/) (One Laptop Per Child) hardware and the [Sugar environment](http://wiki.laptop.org/go/Category:Sugar)
 
 
 {{< tdclose >}}

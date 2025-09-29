@@ -35,6 +35,7 @@
     "website": "mas-110-fundamentals-of-computational-media-design-fall-2008"
   },
   "course_title": "Fundamentals of Computational Media Design",
+  "hide_download": true,
   "course_description": "This class covers the history of 20th century art and design from the perspective of the technologist. Methods for visual analysis, oral critique, and digital expression are introduced. Class projects this term use the OLPC XO (One Laptop Per Child) laptop, Csound and Python software.\n",
   "department_numbers": [
     "MAS"
@@ -45,6 +46,7 @@
     "content": "7fe8f5b9-3e4d-612a-8d3e-cb15a88bdb64",
     "website": "mas-110-fundamentals-of-computational-media-design-fall-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Programming Assignments",
