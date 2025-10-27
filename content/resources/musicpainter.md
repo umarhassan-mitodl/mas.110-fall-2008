@@ -4,8 +4,6 @@ description: MusicPainter for XO software package.
 file: /courses/mas-110-fundamentals-of-computational-media-design-fall-2008/bcab23b123bf9d20bbe4c96574ea6521_Musicpainter.tar
 file_size: 2334720
 file_type: application/x-tar
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

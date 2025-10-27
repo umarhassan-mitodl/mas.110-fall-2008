@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,7 +24,7 @@ MusicPainter is a networked graphical composing environment which aims to encour
 
 {{< resource "cbdcedee-0122-e8cf-b47f-990685950929" >}}
 
-For more background, see this [MusicPainter introduction page](http://web.media.mit.edu/~wuhsi/Musicpainter_en.html).
+For more background, see this {{% resource_link "49b68194-6b3c-441a-b853-2651d68af962" "MusicPainter introduction page" %}}.
 
 Software Download
 -----------------

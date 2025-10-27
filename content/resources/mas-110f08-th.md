@@ -6,8 +6,6 @@ description: 'MusicPainter is a networked graphical composing environment which 
 file: /courses/mas-110-fundamentals-of-computational-media-design-fall-2008/7fe8f5b93e4d612a8d3ecb15a88bdb64_mas-110f08-th.jpg
 file_size: 2417
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "MusicPainter\_is a networked graphical composing environment which aims\
     \ to encourage sharing and collaboration between users.\_ It is used in class\

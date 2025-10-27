@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on exercises and essays, and the final
   project assigned for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -43,7 +41,7 @@ CsoundXO package, by Barry Vercoe:
 MusicPainter for XO, by Wu-Hsi Li:
 
 *   {{% resource_link 27e326bc-0cd5-9fc7-b568-78f5d1afceca "Download with detailed instructions" %}}
-*   [MusicPainter introduction](http://web.media.mit.edu/~wuhsi/Musicpainter_en.html)
+*   {{% resource_link "49b68194-6b3c-441a-b853-2651d68af962" "MusicPainter introduction" %}}
 
 ### Exercise 4
 
@@ -62,7 +60,7 @@ Write 6-8 double-spaced pages describing a technological artifact with which you
 
 ### Essay 2
 
-Write 6-8 double-spaced pages describing a painting at the Boston [Museum of Fine Arts](http://www.mfa.org/) in one of the styles discussed in Britt. Look up an image of the painting on the MFA Web site and discuss the difference in its appearance from that of the actual painting. Discuss also the difference in your personal experience of viewing the painting at the MFA with that of looking at a picture on the computer screen.
+Write 6-8 double-spaced pages describing a painting at the Boston {{% resource_link "572ffed5-7fd7-4c9a-bc82-c2d4d0279695" "Museum of Fine Arts" %}} in one of the styles discussed in Britt. Look up an image of the painting on the MFA Web site and discuss the difference in its appearance from that of the actual painting. Discuss also the difference in your personal experience of viewing the painting at the MFA with that of looking at a picture on the computer screen.
 
 ### Essay 3
 
