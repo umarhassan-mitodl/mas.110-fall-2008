@@ -70,7 +70,7 @@ In-class exercise, "making letters"
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Video screening: [*Helvetica*](http://www.imdb.com/title/tt0847817/) by Gary Hustwit
+Video screening: {{% resource_link "55e5bc07-3f83-43e4-952e-9fbc8f018015" "*Helvetica*" %}} by Gary Hustwit
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -127,7 +127,7 @@ Guest lecturer: Walter Bender
 
 Color: physics, psychophysics, and aesthetics (cont.)
 
-Discuss [OLPC XO](https://www.olpc.com/) (One Laptop Per Child) hardware and the [Sugar environment](http://wiki.laptop.org/go/Category:Sugar)
+Discuss {{% resource_link "9e3c1ec7-f9a8-44ba-9b58-111d82cb43d3" "OLPC XO" %}} (One Laptop Per Child) hardware and the {{% resource_link "8f6423bc-c0ec-4d22-b583-d12dd4fda0d8" "Sugar environment" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -261,4 +261,4 @@ You are expected to participate in class discussion throughout the semester. Par
 
 ## Plagiarism Policy
 
-When writing a paper or creating any expressive work, you must identify the nature and extent of your intellectual indebtedness to the authors, artists, and designers whom you have read or to anyone else from whom you have gotten ideas (e.g., classmates, invited lecturers, etc.). You can do so through footnotes, a bibliography, or some other kind of scholarly device. Failure to disclose your reliance on the research or thinking of others is **plagiarism**, which is considered to be the most serious academic offense and will be treated as such. If you have any questions about how you should document the sources of your ideas, please ask your instructors before you submit your written work. MIT's academic policy can be found at the following link: [MIT Policies and Procedures](https://policies-procedures.mit.edu/).
+When writing a paper or creating any expressive work, you must identify the nature and extent of your intellectual indebtedness to the authors, artists, and designers whom you have read or to anyone else from whom you have gotten ideas (e.g., classmates, invited lecturers, etc.). You can do so through footnotes, a bibliography, or some other kind of scholarly device. Failure to disclose your reliance on the research or thinking of others is **plagiarism**, which is considered to be the most serious academic offense and will be treated as such. If you have any questions about how you should document the sources of your ideas, please ask your instructors before you submit your written work. MIT's academic policy can be found at the following link: {{% resource_link "5b6c52fd-3dc3-4ebc-8528-ce6e12ca75fc" "MIT Policies and Procedures" %}}.
